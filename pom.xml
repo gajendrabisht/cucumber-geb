@@ -5,7 +5,7 @@
   <version>LATEST-SNAPSHOT</version>
 
   <scm>
-        <connection>scm:git:ssh://gitadmin@git.wps.wiley.com:/apps/git/online-library/services/anywhere-article.git</connection>
+        <connection>scm:git:ssh://gitadmin@git.wps.wiley.com:/apps/git/online-library/applications/cucumber-geb.git</connection>
   </scm>
   
   <properties>
